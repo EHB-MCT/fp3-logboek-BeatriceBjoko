@@ -1,7 +1,7 @@
 # Logboek
 
 **Datum:** `20/01/2025`  
-**Studentnaam:** `Beatrice`  
+**Studentnaam:** `Beatrice Bjoko`  
 **Groepsnaam:** `Jasons`
 
 ---
@@ -13,7 +13,7 @@
 
 > **Activiteiten:**
 >
-> - Ik heb een branch gemaakt 'kaartenspel' en hier in heb ik twee pagina's gecodeerd, nog niet 100% af, maar dit is waarmee ik nu bezig ben. De twee pagina's zijn 'kaartenspel' en 'over ons'.  
+> - Ik heb een branch gemaakt 'kaartenspel' en hier in heb ik twee pagina's gecodeerd, nog niet 100% af, maar dit is waarmee ik nu bezig ben. De twee pagina's zijn 'kaartenspel.html' en 'over ons.html'. En de css en js ervan. Dus kaartenspel.css en kaartenspel.js
 >   De mail dat ik heb opgesteld, was voor feedback van de leerkrachten en de klant. Waar in staat wat de volgende stappen zullen zijn die we nu gaan nemen. Dit heb ik opgesteld, aangezien ik de product owner al een goede basis wou geven zodat ze hier in verder kon werken.
 
 ---
